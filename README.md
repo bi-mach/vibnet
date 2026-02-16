@@ -1,4 +1,3 @@
-# vibnet
 Repository for VibNet
 
 A mobile application for accessible body stimulation.
