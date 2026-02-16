@@ -11,5 +11,5 @@ Pitch Deck: https://docs.google.com/presentation/d/160Q_-88fgbvUR70dNorM-tNHyEnX
 
 Body stimulation has existed since 19th century. It gained popularity as a tool for hypnosis, and treating neurological disorders, and today it is largly used in physiological rehabilitation. Body stimulation had promissing results, but most of the today's product are not focusing on personalization, which is why solutions are limited. VibNet was created to make this tool accessible, and now everybdoy suffering with attention difficulties, anger issues, insomia, can easily create the body stimulation that suits them the best.
 
-We believe in the future where everybody can feel however they want, and we made the right first-step by making stimulation accessible.
+We believe in the future where everybody can feel whatever they want, and we made the right first-step by making stimulation accessible.
 
